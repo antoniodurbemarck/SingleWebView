@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950330986114",
+    "project_id": "stream-b4516",
+    "storage_bucket": "stream-b4516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950330986114:android:da3b1c39fbc50abf9fae9b",
+        "android_client_info": {
+          "package_name": "com.stripchat.livechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7rQ_jyZ6frvbD2ePaQIijoDwVFLIYes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
